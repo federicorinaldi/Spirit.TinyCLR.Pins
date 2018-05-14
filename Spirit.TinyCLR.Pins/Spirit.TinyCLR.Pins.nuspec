@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Spirit.TinyCLR.Pins</id>
-    <version>0.1</version>
-    <title>TinyCLR Pins for Netduino</title>
-    <authors>Federico M. Rinaldi</authors>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
     <owners>$author$</owners>
     <licenseUrl>https://github.com/federicorinaldi/Spirit.TinyCLR.Pins/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/federicorinaldi/Spirit.TinyCLR.Pins</projectUrl>
     <iconUrl>http://spiritconsultingllc.com/logo.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Board definition for the Netduino 3</description>
+    <description>$description$</description>
     <releaseNotes>First release.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>TinyCLR Netduino</tags>
